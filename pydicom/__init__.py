@@ -46,5 +46,5 @@ def write_file(*args, **kwargs):
     from pydicom.dicomio import write_file
     return write_file(*args, **kwargs)
 
-__version__ = "1.0.0a1"
-__version_info__ = (1, 0, 0, 'alpha', 0)
+__version__ = "1.0.0cfmm"
+__version_info__ = (1, 0, 0, 'cfmm', 0)
